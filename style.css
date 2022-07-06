@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: aliceblue;
+    color: whitesmoke;
     font-size: 50px;
 
 }
@@ -10,7 +10,7 @@ h2 {
 }
 
 .donate {
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation11.jpg);
 
 }
 
@@ -20,7 +20,7 @@ p {
 }
 
 .donate p {
-    color: aliceblue;
+    color: whitesmoke;
 }
 
 .link-button {
@@ -47,6 +47,7 @@ h2 {
 
 h3 {
     font-size: 30px;
+    text-align: left;
 }
 
 #taka {
@@ -55,4 +56,34 @@ h3 {
 
 .unique {
     padding: 30px;
+}
+
+body {
+    font-family: 'Mingzat',
+        sans-serif;
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+.food p {
+    text-align: left;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.essentials {
+    display: flex;
+    padding: 20%;
+}
+
+.humble {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+footer p {
+    color: aliceblue;
 }
