@@ -87,3 +87,18 @@ h4 {
 footer p {
     color: aliceblue;
 }
+
+#one {
+    background-color: lawngreen;
+    margin-right: 20px;
+}
+
+#two {
+    background-color: pink;
+    margin-right: 20px;
+}
+
+#three {
+    background-color: goldenrod;
+    margin-right: 20px;
+}
