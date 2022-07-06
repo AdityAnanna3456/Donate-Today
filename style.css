@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.donate {
+    background-image: url(images/donation0.jpg);
+
+}
+
+p {
+    text-align: center;
+    color: black
+}
+
+.donate p {
+    color: aliceblue;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 20px;
+
+}
+
+.button {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#taka {
+    background-color: salmon;
+}
+
+.unique {
+    padding: 30px;
+}
