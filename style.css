@@ -54,9 +54,11 @@ h3 {
     background-color: salmon;
 }
 
-.unique {
-    padding: 30px;
+.amount {
+    border: 30px solid lightsalmon;
+
 }
+
 
 body {
     font-family: 'Mingzat',
